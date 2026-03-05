@@ -6,4 +6,4 @@
 - JAVASCRIPT <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 <br>
 <br>
--![Jr. Mitusaki stats](https://github-readme-stats.vercel.app/api?username=jr.mitusaki=contribs,prs)
+-![Jr.Mitusaki stats](https://github-readme-stats.vercel.app/api?username=jr.mitusaki=contribs,prs)
